@@ -1,4 +1,4 @@
-# Resume Made Easy - Dual Mode (LaTeX & PDF)
+# Resume Builder - Dual Mode (LaTeX & PDF)
 
 A full-stack web application that allows users to create and edit resumes using **LaTeX templates** OR by **uploading existing PDF resumes**. AI extracts fillable fields automatically and generates personalized PDF outputs.
 
